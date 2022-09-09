@@ -1,0 +1,51 @@
+.headerSecond{
+    width: 100%;
+    position: relative;
+    height: 700px;
+    margin-left: 0px;
+    margin : 0 0 0 0;
+    z-index: -7899;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: black;
+    color: white;
+}
+.textItem1{
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+.CardItem-1{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ .card-1 {
+    width: 17rem;
+    overflow: auto;
+    height: 22rem;
+    padding-bottom: 0px;
+    border-width: 2px;
+    border-radius: 10px;
+    border: 1px solid  #7c7171; 
+}
+.watchIcon{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.desc{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: white;
+}

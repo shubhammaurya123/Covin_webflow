@@ -1,0 +1,52 @@
+.header-1{
+    width: 100%;
+    height: 600px;
+    background-color: transparent;
+    display: flex;
+    font-size: 50px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    justify-content: space-between;
+}
+.box--sticky-1{
+    position: fixed;
+    z-index: 74038332;
+    width: 10em;
+    height: 20em;
+    margin-top: 100px;
+    border-radius: 50%;
+    background-color:  rgba(95, 230, 235, 0.6);
+    background-image: none;
+    background-size: auto;
+    -webkit-filter: blur(8em);
+    filter: blur(8em);
+}
+.Xtext{
+   background-image: linear-gradient(112deg, #d22c84, #fb6069 52%, #2d84f1);
+   font-family: 'Plus Jakarta Sans', sans-serif;
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.leftText{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.covinDesc{
+    font-weight: 0;
+    font-size: 15px;
+}
+.Signup_1.btn_1{
+    width: 100px;
+    height: 45px;
+    font-size: 15px;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.movingIcon{
+    text-align: center;
+}
+.rightIcon-1{
+    margin-top: 50px;
+    margin-right: 20px;
+}

@@ -1,0 +1,48 @@
+.headerFive{
+    width: 100%;
+    align-items: center;
+}
+.headerFivetext{
+    margin-top: 120px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.ImgInHeaderFive{
+    border-radius: 15px;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+.Aria_cover{
+    width: 70%;
+    height: 275px;
+    color: white;
+    
+    margin-bottom: 100px;
+    background-color:#0b0c0f;
+    border-radius: 25px;
+    margin-left: 210px;
+    align-items: center;
+    margin-top: 60px;
+}
+.black_top{
+     padding-top: 40px;
+}
+.headerFivetext1{
+    margin-top: 20px;
+    text-align: center;
+}
+.headerFivebtn{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 420px;
+}
+.Icon8{
+    margin-top: 36px;
+    margin-left: 390px;
+    width: 600px;
+}
